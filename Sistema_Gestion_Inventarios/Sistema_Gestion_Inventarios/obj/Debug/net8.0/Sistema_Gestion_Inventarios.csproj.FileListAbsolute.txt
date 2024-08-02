@@ -1,0 +1,14 @@
+C:\Users\PC-01\source\repos\Sistema_Gestion_Inventarios\Sistema_Gestion_Inventarios\bin\Debug\net8.0\Sistema_Gestion_Inventarios.exe
+C:\Users\PC-01\source\repos\Sistema_Gestion_Inventarios\Sistema_Gestion_Inventarios\bin\Debug\net8.0\Sistema_Gestion_Inventarios.deps.json
+C:\Users\PC-01\source\repos\Sistema_Gestion_Inventarios\Sistema_Gestion_Inventarios\bin\Debug\net8.0\Sistema_Gestion_Inventarios.runtimeconfig.json
+C:\Users\PC-01\source\repos\Sistema_Gestion_Inventarios\Sistema_Gestion_Inventarios\bin\Debug\net8.0\Sistema_Gestion_Inventarios.dll
+C:\Users\PC-01\source\repos\Sistema_Gestion_Inventarios\Sistema_Gestion_Inventarios\bin\Debug\net8.0\Sistema_Gestion_Inventarios.pdb
+C:\Users\PC-01\source\repos\Sistema_Gestion_Inventarios\Sistema_Gestion_Inventarios\obj\Debug\net8.0\Sistema_Gestion_Inventarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-01\source\repos\Sistema_Gestion_Inventarios\Sistema_Gestion_Inventarios\obj\Debug\net8.0\Sistema_Gestion_Inventarios.AssemblyInfoInputs.cache
+C:\Users\PC-01\source\repos\Sistema_Gestion_Inventarios\Sistema_Gestion_Inventarios\obj\Debug\net8.0\Sistema_Gestion_Inventarios.AssemblyInfo.cs
+C:\Users\PC-01\source\repos\Sistema_Gestion_Inventarios\Sistema_Gestion_Inventarios\obj\Debug\net8.0\Sistema_Gestion_Inventarios.csproj.CoreCompileInputs.cache
+C:\Users\PC-01\source\repos\Sistema_Gestion_Inventarios\Sistema_Gestion_Inventarios\obj\Debug\net8.0\Sistema_Gestion_Inventarios.dll
+C:\Users\PC-01\source\repos\Sistema_Gestion_Inventarios\Sistema_Gestion_Inventarios\obj\Debug\net8.0\refint\Sistema_Gestion_Inventarios.dll
+C:\Users\PC-01\source\repos\Sistema_Gestion_Inventarios\Sistema_Gestion_Inventarios\obj\Debug\net8.0\Sistema_Gestion_Inventarios.pdb
+C:\Users\PC-01\source\repos\Sistema_Gestion_Inventarios\Sistema_Gestion_Inventarios\obj\Debug\net8.0\Sistema_Gestion_Inventarios.genruntimeconfig.cache
+C:\Users\PC-01\source\repos\Sistema_Gestion_Inventarios\Sistema_Gestion_Inventarios\obj\Debug\net8.0\ref\Sistema_Gestion_Inventarios.dll
