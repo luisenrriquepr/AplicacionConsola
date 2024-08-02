@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Agenda_Contactos/1.0.0": {
+        "runtime": {
+          "Agenda_Contactos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Agenda_Contactos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

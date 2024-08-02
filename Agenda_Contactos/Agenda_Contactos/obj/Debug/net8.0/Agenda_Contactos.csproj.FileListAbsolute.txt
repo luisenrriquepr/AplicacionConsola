@@ -1,0 +1,14 @@
+C:\Users\PC-01\source\repos\Agenda_Contactos\Agenda_Contactos\bin\Debug\net8.0\Agenda_Contactos.exe
+C:\Users\PC-01\source\repos\Agenda_Contactos\Agenda_Contactos\bin\Debug\net8.0\Agenda_Contactos.deps.json
+C:\Users\PC-01\source\repos\Agenda_Contactos\Agenda_Contactos\bin\Debug\net8.0\Agenda_Contactos.runtimeconfig.json
+C:\Users\PC-01\source\repos\Agenda_Contactos\Agenda_Contactos\bin\Debug\net8.0\Agenda_Contactos.dll
+C:\Users\PC-01\source\repos\Agenda_Contactos\Agenda_Contactos\bin\Debug\net8.0\Agenda_Contactos.pdb
+C:\Users\PC-01\source\repos\Agenda_Contactos\Agenda_Contactos\obj\Debug\net8.0\Agenda_Contactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-01\source\repos\Agenda_Contactos\Agenda_Contactos\obj\Debug\net8.0\Agenda_Contactos.AssemblyInfoInputs.cache
+C:\Users\PC-01\source\repos\Agenda_Contactos\Agenda_Contactos\obj\Debug\net8.0\Agenda_Contactos.AssemblyInfo.cs
+C:\Users\PC-01\source\repos\Agenda_Contactos\Agenda_Contactos\obj\Debug\net8.0\Agenda_Contactos.csproj.CoreCompileInputs.cache
+C:\Users\PC-01\source\repos\Agenda_Contactos\Agenda_Contactos\obj\Debug\net8.0\Agenda_Contactos.dll
+C:\Users\PC-01\source\repos\Agenda_Contactos\Agenda_Contactos\obj\Debug\net8.0\refint\Agenda_Contactos.dll
+C:\Users\PC-01\source\repos\Agenda_Contactos\Agenda_Contactos\obj\Debug\net8.0\Agenda_Contactos.pdb
+C:\Users\PC-01\source\repos\Agenda_Contactos\Agenda_Contactos\obj\Debug\net8.0\Agenda_Contactos.genruntimeconfig.cache
+C:\Users\PC-01\source\repos\Agenda_Contactos\Agenda_Contactos\obj\Debug\net8.0\ref\Agenda_Contactos.dll
