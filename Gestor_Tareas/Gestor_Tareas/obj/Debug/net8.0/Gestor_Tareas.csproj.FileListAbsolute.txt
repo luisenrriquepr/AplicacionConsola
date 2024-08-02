@@ -1,0 +1,14 @@
+C:\Users\PC-01\source\repos\Gestor_Tareas\Gestor_Tareas\bin\Debug\net8.0\Gestor_Tareas.exe
+C:\Users\PC-01\source\repos\Gestor_Tareas\Gestor_Tareas\bin\Debug\net8.0\Gestor_Tareas.deps.json
+C:\Users\PC-01\source\repos\Gestor_Tareas\Gestor_Tareas\bin\Debug\net8.0\Gestor_Tareas.runtimeconfig.json
+C:\Users\PC-01\source\repos\Gestor_Tareas\Gestor_Tareas\bin\Debug\net8.0\Gestor_Tareas.dll
+C:\Users\PC-01\source\repos\Gestor_Tareas\Gestor_Tareas\bin\Debug\net8.0\Gestor_Tareas.pdb
+C:\Users\PC-01\source\repos\Gestor_Tareas\Gestor_Tareas\obj\Debug\net8.0\Gestor_Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-01\source\repos\Gestor_Tareas\Gestor_Tareas\obj\Debug\net8.0\Gestor_Tareas.AssemblyInfoInputs.cache
+C:\Users\PC-01\source\repos\Gestor_Tareas\Gestor_Tareas\obj\Debug\net8.0\Gestor_Tareas.AssemblyInfo.cs
+C:\Users\PC-01\source\repos\Gestor_Tareas\Gestor_Tareas\obj\Debug\net8.0\Gestor_Tareas.csproj.CoreCompileInputs.cache
+C:\Users\PC-01\source\repos\Gestor_Tareas\Gestor_Tareas\obj\Debug\net8.0\Gestor_Tareas.dll
+C:\Users\PC-01\source\repos\Gestor_Tareas\Gestor_Tareas\obj\Debug\net8.0\refint\Gestor_Tareas.dll
+C:\Users\PC-01\source\repos\Gestor_Tareas\Gestor_Tareas\obj\Debug\net8.0\Gestor_Tareas.pdb
+C:\Users\PC-01\source\repos\Gestor_Tareas\Gestor_Tareas\obj\Debug\net8.0\Gestor_Tareas.genruntimeconfig.cache
+C:\Users\PC-01\source\repos\Gestor_Tareas\Gestor_Tareas\obj\Debug\net8.0\ref\Gestor_Tareas.dll
