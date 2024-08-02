@@ -1,0 +1,14 @@
+C:\Users\PC-01\source\repos\Sistema_Registro_Estudiantes\Sistema_Registro_Estudiantes\bin\Debug\net8.0\Sistema_Registro_Estudiantes.exe
+C:\Users\PC-01\source\repos\Sistema_Registro_Estudiantes\Sistema_Registro_Estudiantes\bin\Debug\net8.0\Sistema_Registro_Estudiantes.deps.json
+C:\Users\PC-01\source\repos\Sistema_Registro_Estudiantes\Sistema_Registro_Estudiantes\bin\Debug\net8.0\Sistema_Registro_Estudiantes.runtimeconfig.json
+C:\Users\PC-01\source\repos\Sistema_Registro_Estudiantes\Sistema_Registro_Estudiantes\bin\Debug\net8.0\Sistema_Registro_Estudiantes.dll
+C:\Users\PC-01\source\repos\Sistema_Registro_Estudiantes\Sistema_Registro_Estudiantes\bin\Debug\net8.0\Sistema_Registro_Estudiantes.pdb
+C:\Users\PC-01\source\repos\Sistema_Registro_Estudiantes\Sistema_Registro_Estudiantes\obj\Debug\net8.0\Sistema_Registro_Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-01\source\repos\Sistema_Registro_Estudiantes\Sistema_Registro_Estudiantes\obj\Debug\net8.0\Sistema_Registro_Estudiantes.AssemblyInfoInputs.cache
+C:\Users\PC-01\source\repos\Sistema_Registro_Estudiantes\Sistema_Registro_Estudiantes\obj\Debug\net8.0\Sistema_Registro_Estudiantes.AssemblyInfo.cs
+C:\Users\PC-01\source\repos\Sistema_Registro_Estudiantes\Sistema_Registro_Estudiantes\obj\Debug\net8.0\Sistema_Registro_Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\PC-01\source\repos\Sistema_Registro_Estudiantes\Sistema_Registro_Estudiantes\obj\Debug\net8.0\Sistema_Registro_Estudiantes.dll
+C:\Users\PC-01\source\repos\Sistema_Registro_Estudiantes\Sistema_Registro_Estudiantes\obj\Debug\net8.0\refint\Sistema_Registro_Estudiantes.dll
+C:\Users\PC-01\source\repos\Sistema_Registro_Estudiantes\Sistema_Registro_Estudiantes\obj\Debug\net8.0\Sistema_Registro_Estudiantes.pdb
+C:\Users\PC-01\source\repos\Sistema_Registro_Estudiantes\Sistema_Registro_Estudiantes\obj\Debug\net8.0\Sistema_Registro_Estudiantes.genruntimeconfig.cache
+C:\Users\PC-01\source\repos\Sistema_Registro_Estudiantes\Sistema_Registro_Estudiantes\obj\Debug\net8.0\ref\Sistema_Registro_Estudiantes.dll
