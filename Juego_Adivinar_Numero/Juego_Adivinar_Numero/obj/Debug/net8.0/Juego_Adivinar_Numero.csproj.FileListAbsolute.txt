@@ -1,0 +1,14 @@
+C:\Users\PC-01\source\repos\Juego_Adivinar_Numero\Juego_Adivinar_Numero\bin\Debug\net8.0\Juego_Adivinar_Numero.exe
+C:\Users\PC-01\source\repos\Juego_Adivinar_Numero\Juego_Adivinar_Numero\bin\Debug\net8.0\Juego_Adivinar_Numero.deps.json
+C:\Users\PC-01\source\repos\Juego_Adivinar_Numero\Juego_Adivinar_Numero\bin\Debug\net8.0\Juego_Adivinar_Numero.runtimeconfig.json
+C:\Users\PC-01\source\repos\Juego_Adivinar_Numero\Juego_Adivinar_Numero\bin\Debug\net8.0\Juego_Adivinar_Numero.dll
+C:\Users\PC-01\source\repos\Juego_Adivinar_Numero\Juego_Adivinar_Numero\bin\Debug\net8.0\Juego_Adivinar_Numero.pdb
+C:\Users\PC-01\source\repos\Juego_Adivinar_Numero\Juego_Adivinar_Numero\obj\Debug\net8.0\Juego_Adivinar_Numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-01\source\repos\Juego_Adivinar_Numero\Juego_Adivinar_Numero\obj\Debug\net8.0\Juego_Adivinar_Numero.AssemblyInfoInputs.cache
+C:\Users\PC-01\source\repos\Juego_Adivinar_Numero\Juego_Adivinar_Numero\obj\Debug\net8.0\Juego_Adivinar_Numero.AssemblyInfo.cs
+C:\Users\PC-01\source\repos\Juego_Adivinar_Numero\Juego_Adivinar_Numero\obj\Debug\net8.0\Juego_Adivinar_Numero.csproj.CoreCompileInputs.cache
+C:\Users\PC-01\source\repos\Juego_Adivinar_Numero\Juego_Adivinar_Numero\obj\Debug\net8.0\Juego_Adivinar_Numero.dll
+C:\Users\PC-01\source\repos\Juego_Adivinar_Numero\Juego_Adivinar_Numero\obj\Debug\net8.0\refint\Juego_Adivinar_Numero.dll
+C:\Users\PC-01\source\repos\Juego_Adivinar_Numero\Juego_Adivinar_Numero\obj\Debug\net8.0\Juego_Adivinar_Numero.pdb
+C:\Users\PC-01\source\repos\Juego_Adivinar_Numero\Juego_Adivinar_Numero\obj\Debug\net8.0\Juego_Adivinar_Numero.genruntimeconfig.cache
+C:\Users\PC-01\source\repos\Juego_Adivinar_Numero\Juego_Adivinar_Numero\obj\Debug\net8.0\ref\Juego_Adivinar_Numero.dll
