@@ -1,0 +1,14 @@
+C:\Users\PC-01\source\repos\POO_Sistema_Gestion_Estudiantes\POO_Sistema_Gestion_Estudiantes\bin\Debug\net8.0\POO_Sistema_Gestion_Estudiantes.exe
+C:\Users\PC-01\source\repos\POO_Sistema_Gestion_Estudiantes\POO_Sistema_Gestion_Estudiantes\bin\Debug\net8.0\POO_Sistema_Gestion_Estudiantes.deps.json
+C:\Users\PC-01\source\repos\POO_Sistema_Gestion_Estudiantes\POO_Sistema_Gestion_Estudiantes\bin\Debug\net8.0\POO_Sistema_Gestion_Estudiantes.runtimeconfig.json
+C:\Users\PC-01\source\repos\POO_Sistema_Gestion_Estudiantes\POO_Sistema_Gestion_Estudiantes\bin\Debug\net8.0\POO_Sistema_Gestion_Estudiantes.dll
+C:\Users\PC-01\source\repos\POO_Sistema_Gestion_Estudiantes\POO_Sistema_Gestion_Estudiantes\bin\Debug\net8.0\POO_Sistema_Gestion_Estudiantes.pdb
+C:\Users\PC-01\source\repos\POO_Sistema_Gestion_Estudiantes\POO_Sistema_Gestion_Estudiantes\obj\Debug\net8.0\POO_Sistema_Gestion_Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-01\source\repos\POO_Sistema_Gestion_Estudiantes\POO_Sistema_Gestion_Estudiantes\obj\Debug\net8.0\POO_Sistema_Gestion_Estudiantes.AssemblyInfoInputs.cache
+C:\Users\PC-01\source\repos\POO_Sistema_Gestion_Estudiantes\POO_Sistema_Gestion_Estudiantes\obj\Debug\net8.0\POO_Sistema_Gestion_Estudiantes.AssemblyInfo.cs
+C:\Users\PC-01\source\repos\POO_Sistema_Gestion_Estudiantes\POO_Sistema_Gestion_Estudiantes\obj\Debug\net8.0\POO_Sistema_Gestion_Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\PC-01\source\repos\POO_Sistema_Gestion_Estudiantes\POO_Sistema_Gestion_Estudiantes\obj\Debug\net8.0\POO_Sistema_Gestion_Estudiantes.dll
+C:\Users\PC-01\source\repos\POO_Sistema_Gestion_Estudiantes\POO_Sistema_Gestion_Estudiantes\obj\Debug\net8.0\refint\POO_Sistema_Gestion_Estudiantes.dll
+C:\Users\PC-01\source\repos\POO_Sistema_Gestion_Estudiantes\POO_Sistema_Gestion_Estudiantes\obj\Debug\net8.0\POO_Sistema_Gestion_Estudiantes.pdb
+C:\Users\PC-01\source\repos\POO_Sistema_Gestion_Estudiantes\POO_Sistema_Gestion_Estudiantes\obj\Debug\net8.0\POO_Sistema_Gestion_Estudiantes.genruntimeconfig.cache
+C:\Users\PC-01\source\repos\POO_Sistema_Gestion_Estudiantes\POO_Sistema_Gestion_Estudiantes\obj\Debug\net8.0\ref\POO_Sistema_Gestion_Estudiantes.dll
